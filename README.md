@@ -2,12 +2,12 @@
 </br>
   
 ### Repo Notations:  
->+ BL - Backend Learning  
->+ FL - Frontend Learning  
->+ CA - Clean Architecture  
->+ PP - Personal Project  
->+ C - Course Project  
->+ DevOpsL - DevOps Learning
+>+ BL - Backend Learning  [en] / - Aprendendo Backend [pt-br]
+>+ FL - Frontend Learning  [en] / - Aprendendo Frontend [pt-br]
+>+ CA - Clean Architecture  [en] / - Arquitetura Limpa [pt-br]
+>+ PP - Personal Project  [en] / - Projeto Pessoal [pt-br]
+>+ C - Course Project  [en] / - Projeto de curso [pt-br]
+>+ DevOpsL - DevOps Learning [en] / - Aprendendo DevOps [pt-br]
 
  <div>
   <a href="https://github.com/leandro-gehlen">
